@@ -1,4 +1,5 @@
 sources:
-  scala-bootstrap-2.10.7.tar.gz: 0a4e0f4e6a4968320b63d9e9cdaa21c8449cdd78
+  scala-bootstrap-2.10.7.tar.gz: 174a883ed7460cf12f54467561ecfd8a413a895b
 removed_sources:
+  scala-bootstrap-2.10.7.tar.gz: 0a4e0f4e6a4968320b63d9e9cdaa21c8449cdd78
   scala-bootstrap-2.10.7.tar.gz: 19ebab4c2a00eea43fefae11e17672356189aba5
